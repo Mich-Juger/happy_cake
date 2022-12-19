@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.formularioConsulta {
+  text-align: center;
+  margin: 150px;
+  padding: 0 200px 0 200px;
+}
+
+h2 {
+  padding-bottom: 80px;
+}
+
+.emoji {
+  font-size: 200px;
+}
